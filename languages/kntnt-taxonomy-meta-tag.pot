@@ -1,0 +1,43 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kntnt's Taxonomy Meta Tag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-21 11:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: classes/class-settings.php:11
+msgid "Taxonomy Meta Tag"
+msgstr ""
+
+#: classes/class-settings.php:20
+msgid "Taxonomies"
+msgstr ""
+
+#: classes/class-settings.php:21
+msgid "Choose taxonomies whose terms should be printed in meta tags."
+msgstr ""
+
+#: classes/class-abstract-settings.php:37
+msgid "Unauthorized use."
+msgstr ""
+
+#: classes/class-abstract-settings.php:45
+msgid "Nonce failed."
+msgstr ""
+
+#. Name of the plugin
+msgid "Kntnt's Taxonomy Meta Tag"
+msgstr ""
+
+#. Description of the plugin
+msgid "Outputs in meta tags the current post's terms of selected taxonomies."
+msgstr ""
